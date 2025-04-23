@@ -1,0 +1,18 @@
+spring:
+  ai:
+    ollama:
+      init:
+        chat:
+          additional-models: bespoke-minicheck
+      chat:
+        options:
+        #  model: llama3.2:latest
+          model: gemma3:1b
+
+      embedding:
+        options:
+          model: mxbai-embed-large
+    mcp:
+      server: false
+  main:
+    banner-mode: off

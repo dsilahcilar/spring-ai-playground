@@ -1,0 +1,17 @@
+Asunto: Datos de proveedor – Registración
+
+Hola,
+
+Adjuntamos los datos necesarios para el alta como proveedor:
+	•	Empresa: Soluciones Técnicas S.A.
+	•	Dirección: Av. de la Industria 452, 28031 Madrid, España
+	•	Contacto: Laura González
+	•	Teléfono: +34 91 555 7711
+	•	Correo: l.gonzalez@soltecsa.es
+	•	CIF/VAT: ESB12345678
+	•	Banco: Banco Santander – ES26 0049 2354 8720 1234 5678
+	•	ID Proveedor: STS-0934
+	•	Fecha: 12/04/2025
+
+Saludos cordiales,
+Dpto. de Compras
